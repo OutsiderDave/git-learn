@@ -1,1 +1,2 @@
 Hello, sailor!
+Goodbye, soldier!
